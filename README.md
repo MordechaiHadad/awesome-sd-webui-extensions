@@ -1,2 +1,2 @@
-# awesome-sd-webui-extensions
- Collections of awesome automatic1111 webui extensions
+# Awesome Automatic1111 webui extensions
+> Collections of awesome automatic1111 webui extensions
