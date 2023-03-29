@@ -12,6 +12,7 @@
 - [sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI.
 - [stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) - Removes backgrounds from pictures. Extension for webui.
 - [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) -  WebUI extension for ControlNet 
+- [a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) -  Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI 
 
 ## Themes
 
